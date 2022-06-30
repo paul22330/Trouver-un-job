@@ -3,3 +3,5 @@
   -  https://welovedevs.com/app/fr/jobs   
   -  https://www.hackyourjob.org/  
   -  https://www.offresdeveloppeur.com/
+  -  https://www.malt.fr/
+  - https://www.castor-network.com/
