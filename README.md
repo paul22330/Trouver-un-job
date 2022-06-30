@@ -4,4 +4,4 @@
   -  https://www.hackyourjob.org/  
   -  https://www.offresdeveloppeur.com/
   -  https://www.malt.fr/
-  - https://www.castor-network.com/
+  - https://www.castor-network.com/ (super site pour les freelances.)
